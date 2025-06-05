@@ -2549,7 +2549,7 @@
 
     sget-object p1, Landroid/os/Build;->MODEL:Ljava/lang/String;
 
-    const-string v0, "BV8900"
+    const-string v0, "BV890a"
 
     invoke-virtual {p1, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
