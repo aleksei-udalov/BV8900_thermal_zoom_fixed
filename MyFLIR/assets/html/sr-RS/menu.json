@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"O aplikaciji MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"O aplikaciji MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"O termalnoj fotografiji",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Načini primene",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigacija",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Otvaranje slike",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Integracija sa softverom FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Kalibracija",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Menjanje palete",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Podešavanje slike",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Podešavanje slike",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Režim niskog pojačanja",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Snimanje video zapisa sa ubrzanim protokom vremena",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube uživo",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Korišćenje merenja ROI (region od interesa)",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Korišćenje merenja ROI (region od interesa)",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Korišćenje infracrvene skale",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Izoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Izotermalni alarm",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Korišćenje tajmera",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Uključivanje lampe",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Poravnavanje od strane korisnika",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Menjanje podešavanja",
+      "url":"settings.htm"
+   },
+    {
+      "title":"О Теледине ФЛИР",
+      "url":"aboutflir.htm"
+    }
+]

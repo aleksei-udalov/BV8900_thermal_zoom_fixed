@@ -1,0 +1,80 @@
+﻿[
+   {
+      "title":"אודות MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"אודות צילום תרמי",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"יישומים",
+      "url":"applications.htm"
+   },
+    {
+      "title":"ניווט",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"פתיחת תמונה",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"כיול",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"שינוי לוח הצבעים",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"צילום תקריב",
+      "url":"closeup.htm"
+   },
+
+  {
+    "title":"מצב רגישות נמוכה",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"יצירת וידאו בהילוך מהיר",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"שימוש במדידות שטח",
+      "url":"roi.htm"
+    },
+    {
+      "title":"באמצעות סולם IR",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"שמוש בשעון העצר",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"הדלקת הנורה",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"יישור תמונה",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"שינוי הגדרות",
+      "url":"settings.htm"
+   },
+    {
+      "title":"על Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

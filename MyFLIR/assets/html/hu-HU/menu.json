@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"A MyFLIR névjegye",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+  {
+    "title":"A MyFLIR névjegye",
+    "url":"aboutone.htm"
+  },
+  {
+    "title":"A hőképalkotásról",
+    "url":"aboutthermal.htm"
+  },
+  {
+    "title":"Alkalmazások",
+    "url":"applications.htm"
+  },
+  {
+    "title":"Navigáció",
+    "url":"navigating.htm"
+  },
+  {
+    "title":"Kép mentése",
+    "url":"savingimage.htm"
+  },
+  {
+    "title":"Kép megnyitása",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools-integráció",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"Videóklip mentése",
+    "url":"savingvideo.htm"
+  },
+
+  {
+    "title":"Alacsony jelerősítési mód",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"Kalibrálás",
+    "url":"calibration.htm"
+  },
+  {
+    "title":"A paletta módosítása",
+    "url":"palette.htm"
+  },
+  {
+    "title":"Képkorrekciók",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Képkorrekciók",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Time-lapse videó készítése",
+    "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"ROI-mérések használata",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+    "title":"ROI-mérések használata",
+    "url":"roi.htm"
+  },
+  {
+    "title":"Infravörös tartomány használata",
+    "url":"irscale.htm"
+  },
+  {
+    "title":"Izoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Izotermaalapú riasztás",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Az időzítő használata",
+    "url":"timer.htm"
+  },
+
+  {
+    "title":"A lámpa bekapcsolása",
+    "url":"lamp.htm"
+  },
+  {
+    "title":"Felhasználói igazítás",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"A beállítások módosítása",
+    "url":"settings.htm"
+  },
+  {
+    "title":"A Teledyne FLIR-ről",
+    "url":"aboutflir.htm"
+  }
+]

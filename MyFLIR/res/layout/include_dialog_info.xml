@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="26.0sp" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/spacing_dialog_info" style="@style/Dialog.Info.Title" />
+    <LinearLayout style="@style/DialogInfoLine">
+        <TextView android:id="@id/paletteLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_label_palette" style="@style/Dialog.Info" />
+        <TextView android:id="@id/palette" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" style="@style/Dialog.Info" />
+    </LinearLayout>
+    <LinearLayout style="@style/DialogInfoLine">
+        <TextView android:id="@id/tempLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_label_temp" style="@style/Dialog.Info" />
+        <TextView android:id="@id/temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" style="@style/Dialog.Info" />
+    </LinearLayout>
+    <LinearLayout style="@style/DialogInfoLine">
+        <TextView android:id="@id/emissivityLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_emissivity_title" style="@style/Dialog.Info" />
+        <TextView android:id="@id/emissivity" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" style="@style/Dialog.Info" />
+    </LinearLayout>
+    <LinearLayout style="@style/DialogInfoLine">
+        <TextView android:id="@id/locationLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/info_label_loc" style="@style/Dialog.Info" />
+        <TextView android:id="@id/location" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:text="@string/info_location_na" style="@style/Dialog.Info" />
+    </LinearLayout>
+</LinearLayout>

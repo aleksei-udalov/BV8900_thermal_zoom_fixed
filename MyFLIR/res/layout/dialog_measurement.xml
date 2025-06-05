@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/settings_padding" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Switch android:id="@id/switchMin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:text="@string/measurement_info_min" android:layout_weight="1.0" />
+    <Switch android:id="@id/switchMax" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/settings_padding" android:checked="false" android:text="@string/measurement_info_max" android:layout_weight="1.0" />
+    <EditText android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/report_info_notes" android:maxEms="@integer/measurement_notes_max_length" android:minEms="@integer/measurement_notes_max_length" android:maxLength="@integer/measurement_notes_max_length" android:inputType="textCapSentences" />
+</LinearLayout>

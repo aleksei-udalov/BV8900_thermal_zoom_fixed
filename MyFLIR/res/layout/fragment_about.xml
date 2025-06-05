@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="@color/settings_group" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="4.0dip">
+            <TextView android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_line_spacing_reduced" android:text="@string/about_header_about" style="@style/Settings.SubHeader" />
+            <TextView android:id="@id/about_general_about_label" android:background="?selectableItemBackground" android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_marginBottom="@dimen/settings_line_spacing" android:text="@string/about_general_about_label" style="@style/Settings.Label.Clickable" />
+            <ImageView android:layout_marginLeft="@dimen/about_side_margin" style="@style/SettingsDividerLine" />
+            <TextView android:id="@id/about_flir_about_label" android:background="?selectableItemBackground" android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_marginTop="@dimen/settings_line_spacing" android:layout_marginBottom="@dimen/settings_line_spacing" android:text="@string/about_flir_about_label" style="@style/Settings.Label.Clickable" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:background="@color/settings_group" android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/about_header_sys_info" style="@style/Settings.SubHeader" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/about_version_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_line_spacing">
+                <TextView android:layout_width="0.0dip" android:text="@string/about_sys_app_version" android:layout_weight="1.0" style="@style/Settings.Label.Inactive" />
+                <TextView android:id="@id/about_sys_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Settings.Label.Inactive" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/about_serial_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_line_spacing">
+                <TextView android:layout_width="0.0dip" android:text="@string/about_sys_hw_serial" android:layout_weight="1.0" style="@style/Settings.Label.Inactive" />
+                <TextView android:id="@id/about_sys_hw_serial" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Settings.Description" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/about_hardware_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_line_spacing">
+                <TextView android:layout_width="0.0dip" android:text="@string/about_sys_hw_version" android:layout_weight="1.0" style="@style/Settings.Label.Inactive" />
+                <TextView android:id="@id/about_sys_hw_version" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Settings.Label.Inactive" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:background="@color/settings_group" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip">
+            <TextView android:paddingLeft="@dimen/settings_left_margin" android:paddingRight="@dimen/settings_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/about_terms_header" style="@style/Settings.SubHeader" />
+            <TextView android:id="@id/about_terms_label" android:background="?selectableItemBackground" android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_marginBottom="@dimen/settings_line_spacing" android:text="@string/about_terms_label" style="@style/Settings.Label.Clickable" />
+            <ImageView android:layout_marginLeft="@dimen/about_side_margin" style="@style/SettingsDividerLine" />
+            <TextView android:id="@id/about_licenses_label" android:background="?selectableItemBackground" android:paddingLeft="@dimen/about_side_margin" android:paddingRight="@dimen/about_side_margin" android:layout_marginTop="@dimen/settings_line_spacing" android:layout_marginBottom="@dimen/settings_line_spacing" android:text="@string/about_licenses_label" style="@style/Settings.Label.Clickable" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

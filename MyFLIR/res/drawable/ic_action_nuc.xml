@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_ffc_dots" android:bottom="0.0dip" />
+    <item android:id="@id/nuc_chevron" android:drawable="@drawable/ic_ffc_chevron_states" android:top="0.0dip" />
+    <item android:id="@id/nuc_top" android:drawable="@drawable/ic_ffc_chevron_top_states" android:top="0.0dip" />
+</layer-list>

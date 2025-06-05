@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"Om MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Om MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Om termisk avbildning",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Applikasjoner",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigering",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Lagre et bilde",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"Åpne et bilde",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools-integrering",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Lage et videoklipp",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"Høytermisk følsomhet",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"Kalibrering",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Endrer paletten",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Bildejustering",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Bildejustering",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Lager en timelapse-video",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Direkte",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Bruk av ROI-målinger",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Bruk av ROI-målinger",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Bruk av IR-skala",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isoterm",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Isotermisk alarm",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Bruk av tidtakeren",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Slå på lyset",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Brukerjustering",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Endrer innstillinger",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Om Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

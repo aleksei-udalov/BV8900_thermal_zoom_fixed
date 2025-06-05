@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"Despre MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Despre MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Despre imagistica termică",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Aplicații",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigare",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Deschiderea unei imagini",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Integrare FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Calibrare",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Schimbarea paletei",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Reglaje de imagine",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Reglaje de imagine",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Mod Amplificare redusă",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Crearea unui videoclip timelapse",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Utilizarea măsurătorilor",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Utilizarea măsurătorilor",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Utilizare scară IR",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Izotermă",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Alarmă izotermă",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Utilizarea temporizatorului",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Pornirea lampei",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Aliniere utilizator",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Modificarea setărilor",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Despre Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

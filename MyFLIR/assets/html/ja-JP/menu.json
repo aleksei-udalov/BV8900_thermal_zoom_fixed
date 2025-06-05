@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"MyFLIRについて",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"MyFLIRについて",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"サーマルイメージングについて",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"応用範囲",
+      "url":"applications.htm"
+   },
+    {
+      "title":"ナビゲーション",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"画像の保存方法",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"画像を開く方法",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools 統合",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"動画クリップの保存方法",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"低ゲインモード",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"調整",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"パレットの変更方法",
+      "url":"palette.htm"
+   },
+  {
+    "title":"画像の調整",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"画像の調整",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"タイムラプス動画の作成方法",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"ROI 計測方法の使い方",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"ROI 計測方法の使い方",
+      "url":"roi.htm"
+    },
+    {
+      "title":"赤外線領域の使い方",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"等温線",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"等温線アラーム",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"タイマーの使い方",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"フラッシュの点灯方法",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"ユーザー調整",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"設定の変更方法",
+      "url":"settings.htm"
+   },
+    {
+      "title":"テレダインフリアーについて",
+      "url":"aboutflir.htm"
+    }
+]

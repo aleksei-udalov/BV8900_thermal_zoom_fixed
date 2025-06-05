@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:ellipsize="end" android:id="@id/help_list_item_text_view" android:lines="1" style="@style/Settings.Label.Clickable"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

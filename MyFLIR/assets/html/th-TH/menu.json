@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"เกี่ยวกับ MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"เกี่ยวกับ MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"เกี่ยวกับภาพรังสีความร้อน",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"แอปพลิเคชั่น",
+      "url":"applications.htm"
+   },
+    {
+      "title":"การนำทาง",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"เปิดรูปภาพ",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"การเทียบค่ารังสีี",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"เปลี่ยนถาดสี้",
+      "url":"palette.htm"
+   },
+  {
+    "title":"การปรับภาพ",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"การปรับภาพ",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"โหมดรับรังสีต่ำ",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"ถ่ายวีดีโอ time-laspe",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"วิธีการใช้การวัด",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"วิธีการใช้การวัด",
+      "url":"roi.htm"
+    },
+    {
+      "title":"ใช้อินฟราเรดชั่ง",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"ช่วงอุณหภูมิที่ไฮไลต์ (isotherm)",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"ปลุก isotherm",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"การใช้เวลาตั้งค่าถ่ายภาพ",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"การเปิดไฟฉาย",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"การจัดแนวผู้ใช้",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"เปลี่ยนการตั้งค่า",
+      "url":"settings.htm"
+   },
+    {
+      "title":"เกี่ยวกับ Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

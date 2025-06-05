@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:exitFadeDuration="150"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:state_activated="true">
+        <layer-list>
+            <item android:gravity="center" android:height="60.0dip" android:width="60.0dip" android:drawable="@drawable/ic_stop_white_24dp" android:top="0.0dip" android:bottom="10.0dip" />
+            <item android:gravity="bottom|center" android:height="18.0dip" android:width="50.0dip" android:drawable="@drawable/ic_facebook_live_white_transparent" />
+        </layer-list>
+    </item>
+    <item android:state_activated="true">
+        <layer-list>
+            <item android:gravity="center" android:height="60.0dip" android:width="60.0dip" android:drawable="@drawable/ic_stop_white_24dp" android:top="0.0dip" android:bottom="10.0dip" />
+            <item android:gravity="bottom|center" android:height="18.0dip" android:width="50.0dip" android:drawable="@drawable/ic_facebook_live_full_color" />
+        </layer-list>
+    </item>
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:gravity="center" android:drawable="@drawable/ic_videocam_white_60dp" android:top="0.0dip" android:bottom="10.0dip" />
+            <item android:gravity="bottom|center" android:height="18.0dip" android:width="50.0dip" android:drawable="@drawable/ic_facebook_live_full_color" />
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item android:gravity="center" android:drawable="@drawable/ic_videocam_white_60dp" android:top="0.0dip" android:bottom="10.0dip" />
+            <item android:gravity="bottom|center" android:height="18.0dip" android:width="50.0dip" android:drawable="@drawable/ic_facebook_live_white_transparent" />
+        </layer-list>
+    </item>
+</selector>

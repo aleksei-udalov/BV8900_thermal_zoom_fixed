@@ -1,0 +1,125 @@
+﻿[
+  {
+    "title":"Tietoa MyFLIR -lämpökamerasta",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Tietoa MyFLIR -lämpökamerasta",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Tietoa lämpökuvauksesta",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Käyttökohteet",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Pika-aloitusopas",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Valikoissa liikkuminen",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Kuvan tallentaminen",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Videoleikkeen tallentaminen",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Lämpötilan mittaaminen",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibrointi",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Paletin vaihtaminen",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Kuvien säätö",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Kuvien säätö",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+
+  {
+    "title":"Matalan vahvistuksen tila",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Intervallivideon luominen",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Ajastimen käyttäminen",
+      "url":"timer.htm"
+   },
+  {
+    "title":"ROI-mittausten käyttö",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"ROI-mittausten käyttö",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR-asteikon käyttö",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isotermi",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Isotermi-hälytys",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Kuvan avaaminen",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Lampun käynnistäminen",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Käyttäjän tekemä kohdistus",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Asetusten muuttaminen",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Asiakastuki",
+      "url":"support.htm"
+   },
+    {
+      "title":"Tietoja Teledyne FLIRistä",
+      "url":"aboutflir.htm"
+    }
+]

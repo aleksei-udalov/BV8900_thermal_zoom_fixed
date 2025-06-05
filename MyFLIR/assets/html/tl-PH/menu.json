@@ -1,0 +1,96 @@
+﻿[
+  {
+    "title":"Tungkol sa MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Tungkol sa MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Tungkol sa thermal na pagkuha ng imahe",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Mga application",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Guida introduttiva",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Nabigasyon",
+      "url":"navigating.htm"
+   },
+   {
+      "title":"Pag-adjust",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Palitan ang palette",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Pag-a-adjust ng Imahe",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Pag-a-adjust ng Imahe",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"RNI (Rehiyon Ng Interes)",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+    "title":"RNI (Rehiyon Ng Interes)",
+    "url":"roi.htm"
+  },
+  {
+    "title":"Mababang Gain Mode",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Paglika ng time-lapse video",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Paggamit ng timer",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Pagbubukas ng isang imahe",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Pag-on sa ilaw",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Pag-align ng Setting",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Pagpapalit ng mga setting",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Tungkol sa Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+    
+]

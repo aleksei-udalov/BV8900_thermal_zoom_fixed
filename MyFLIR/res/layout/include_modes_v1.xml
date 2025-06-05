@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="#cc000000" android:paddingLeft="@dimen/live_modes_type_two_side_padding" android:paddingRight="@dimen/live_modes_type_two_side_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/live_modes_type_one_row_spacing_horizontal" android:layout_marginRight="@dimen/live_modes_type_one_row_spacing_horizontal">
+        <RelativeLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/live_modes_type_one_row_spacing_vertical">
+            <LinearLayout android:id="@id/icon_mode_photo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:layout_gravity="left" android:id="@id/live_modes_icon_photo" android:src="@drawable/btn_live_mode_photo" style="@style/LiveModesViewTypeOneIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_photo" style="@style/LiveModesViewTypeOneLabel" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/icon_mode_video" android:layout_alignParentTop="true" android:layout_alignParentRight="true" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:layout_gravity="right" android:id="@id/live_modes_icon_video" android:src="@drawable/btn_live_mode_video" style="@style/LiveModesViewTypeOneIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_video" style="@style/LiveModesViewTypeOneLabel" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center|top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/icon_mode_facebook" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="false" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:layout_gravity="center|left|top" android:id="@id/live_modes_icon_facebook" android:src="@drawable/btn_live_mode_youtube" style="@style/LiveModesViewTypeOneIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/youtube_live" style="@style/LiveModesViewTypeOneLabel" />
+            </LinearLayout>
+            <LinearLayout android:id="@id/icon_mode_timelapse" android:layout_alignParentTop="true" android:layout_alignParentRight="true" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:layout_gravity="center|right|top" android:id="@id/live_modes_icon_timelapse" android:src="@drawable/btn_live_mode_timelapse" style="@style/LiveModesViewTypeOneIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_timelapse" style="@style/LiveModesViewTypeOneLabel" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <TextView android:gravity="center_vertical" android:layout_gravity="end" android:id="@id/toolbarModeInfo" android:padding="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/menu_info" android:drawableLeft="@drawable/ic_info_white_24dp" android:drawablePadding="5.0dip" />
+</LinearLayout>

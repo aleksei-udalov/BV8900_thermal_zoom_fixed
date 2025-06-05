@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector android:constantSize="true" android:enterFadeDuration="@android:integer/config_shortAnimTime" android:exitFadeDuration="@android:integer/config_shortAnimTime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="32.0" android:viewportHeight="32.0">
+            <path android:fillColor="@color/measurement_button_tint" android:pathData="M3.55 18.67c1.11 4.482 4.638 8.011 9.12 9.121v1.55C7.35 28.176 3.163 23.99 2 18.67zm25.79 0c-1.163 5.321-5.349 9.507-10.67 10.67v-1.549c4.482-1.11 8.01-4.639 9.121-9.12zM18.67 2c5.321 1.163 9.507 5.349 10.67 10.67h-1.549c-1.11-4.482-4.639-8.011-9.12-9.121zm-6 0v1.55c-4.482 1.11-8.01 4.638-9.121 9.12H2C3.163 7.35 7.349 3.163 12.67 2z" android:strokeColor="@color/measurement_button_tint" android:strokeWidth="1.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </vector>
+    </item>
+    <item android:state_enabled="false">
+        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="32.0" android:viewportHeight="32.0">
+            <path android:fillColor="@color/measurement_button_tint" android:pathData="M3.55 18.67c1.11 4.482 4.638 8.011 9.12 9.121v1.55C7.35 28.176 3.163 23.99 2 18.67zm25.79 0c-1.163 5.321-5.349 9.507-10.67 10.67v-1.549c4.482-1.11 8.01-4.639 9.121-9.12zM18.67 2c5.321 1.163 9.507 5.349 10.67 10.67h-1.549c-1.11-4.482-4.639-8.011-9.12-9.121zm-6 0v1.55c-4.482 1.11-8.01 4.638-9.121 9.12H2C3.163 7.35 7.349 3.163 12.67 2z" android:strokeColor="@color/measurement_button_tint" android:strokeWidth="1.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+        </vector>
+    </item>
+</animated-selector>

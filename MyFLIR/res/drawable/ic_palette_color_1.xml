@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_color_lens_white_24dp" />
+    <item android:height="8.0dip" android:width="8.0dip" android:drawable="@drawable/ic_filter_1_white_24dp" android:left="15.0dip" android:top="16.0dip" />
+</layer-list>

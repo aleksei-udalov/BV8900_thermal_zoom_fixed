@@ -1,0 +1,125 @@
+﻿[
+  {
+    "title":"MyFLIR Hakkında",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"MyFLIR Hakkında",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Termal görüntüleme hakkında",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Uygulamalar",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Hızlı başlangıç kılavuzu",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navigasyon",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Resim kaydetme",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Video klip kaydetme",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Sıcaklık ölçme",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibrasyon",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Paleti değiştirme",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Görsel Düzenlemeleri",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Görsel Düzenlemeleri",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Düşük Ölçüm Modu",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Hızlandırılmış çekim özelliğine sahip bir video oluşturma",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Canlı",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Zamanlayıcının kullanılması",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Resim açma",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"FLIR Tools Entegrasyonu",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"İB Ölçümlerini Kullanma",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+      "title":"İB Ölçümlerini Kullanma",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR Skalasını Kullanma",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"İzoterm",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"İzoterm Alarmı",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Lambayı açma",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Kullanıcı tarafından Hizalama",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+   },
+    {
+      "title":"Ayarları değiştirme",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Müşteri desteği",
+      "url":"support.htm"
+   },
+    {
+      "title":"Teledyne FLIR Hakkında",
+      "url":"aboutflir.htm"
+    }
+]

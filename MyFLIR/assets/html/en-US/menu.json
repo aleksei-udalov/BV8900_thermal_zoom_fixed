@@ -1,0 +1,114 @@
+﻿[
+  {
+    "title":"About MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"About MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"About thermal imaging",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Applications",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigation",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Saving an image",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"Opening an image",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Saving a video clip",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"High Temperature Mode",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"Calibration",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Changing the palette",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Image Adjustments",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+ 	{
+      "title":"Image Adjustments",
+      "url":"fusion.htm",
+      "feature": "Msx"
+   },
+    {
+      "title":"Creating a time-lapse video",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Using ROI Measurements",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Using ROI Measurements",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Using IR Scale",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"Setting an Isotherm",
+      "url":"isotherm.htm",
+      "feature": "Isotherm"
+    },
+    {
+      "title":"Using an Isotherm Alarm",
+      "url":"alarm.htm",
+      "feature": "Isotherm"
+    },
+    {
+      "title":"Using the timer",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Turning on the lamp",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"User Alignment",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Changing settings",
+      "url":"settings.htm"
+   },
+    {
+      "title":"About Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

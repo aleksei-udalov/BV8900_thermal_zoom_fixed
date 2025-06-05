@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"关于 MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"关于 MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"关于热成像",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"应用",
+      "url":"applications.htm"
+   },
+    {
+      "title":"导航",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"打开图像",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"校准",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"更改调色板",
+      "url":"palette.htm"
+   },
+  {
+    "title":"图像调整",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"图像调整",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"低增益模式",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"创建延时视频",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"测量图像的一个区域",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"测量图像的一个区域",
+      "url":"roi.htm"
+    },
+    {
+      "title":"更改温度色标",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"等温线",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"等温线警报",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"使用定时器",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"打开灯",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"图像对齐",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"更改设置",
+      "url":"settings.htm"
+   },
+    {
+      "title":"关于 Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

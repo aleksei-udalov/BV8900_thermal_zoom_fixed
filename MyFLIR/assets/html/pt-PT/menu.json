@@ -1,0 +1,126 @@
+﻿[
+  {
+    "title":"Acerca da MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Acerca da MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Acerca das imagens térmicas (IV)",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Aplicações",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Manual de iniciação rápida",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navegação",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Guardar uma imagem",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Guardar um videoclipe",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Medir a temperatura",
+      "url":"measuring.htm"
+   },
+  {
+    "title":"Medições",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Medições",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Utilizar a Escala de IV",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isotérmica",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Alarme isotérmico",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+   {
+      "title":"Calibragem",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Alterar a paleta",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Ajustes da Imagem",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Ajustes da Imagem",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+
+  {
+    "title":"Modo de Baixo Ganho",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Criar um vídeo em Time lapse",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Utilizar o temporizador",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Abrir uma imagem",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Integração com o FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Ligar a lâmpada",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Alinhamento do Utilizador",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+   },
+    {
+      "title":"Alterar definições",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Apoio ao cliente",
+      "url":"support.htm"
+   },
+    {
+      "title":"Sobre a Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

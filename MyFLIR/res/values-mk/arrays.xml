@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emissivity_entries">
+        <item>мат</item>
+        <item>Полу-мат</item>
+        <item>Полу-сјајна</item>
+        <item>Сјајна</item>
+        <item>Прилагодено</item>
+    </string-array>
+</resources>

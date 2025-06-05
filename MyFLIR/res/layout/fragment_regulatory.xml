@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingLeft="@dimen/regulatory_side_margin" android:paddingTop="@dimen/regulatory_top_bottom_margin" android:paddingRight="@dimen/regulatory_side_margin" android:paddingBottom="@dimen/regulatory_top_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:text="U.S." style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_small_margin" android:src="@drawable/regulatory_marks_1" android:adjustViewBounds="true" />
+        <TextView android:textStyle="bold" android:text="I.T.E ACCESSORY E60156" style="@style/RegulatorySubLabel" />
+        <TextView android:layout_marginBottom="@dimen/regulatory_small_margin" android:text="Li-Ion (1ICP6/44/48) Rating: 3.7Vdc, 1.4Ah" style="@style/RegulatorySubLabel" />
+        <TextView android:textStyle="bold" android:text="CAUTION" style="@style/RegulatorySubLabel" />
+        <TextView android:text="Risk of Fire and Burns. Do Not Open,\nCrush, Heat Above 80°C or Incinerate." style="@style/RegulatorySubLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/regulatory_medium_margin" android:layout_marginBottom="@dimen/regulatory_medium_margin" android:src="@drawable/regulatory_marks_2" android:adjustViewBounds="true" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/regulatory_medium_margin" android:layout_marginBottom="@dimen/regulatory_large_margin" android:src="@drawable/regulatory_marks_3" android:adjustViewBounds="true" />
+        <TextView android:text="Canada" style="@style/RegulatoryLabel" />
+        <TextView android:layout_marginBottom="@dimen/regulatory_large_margin" android:text="CAN ICES-3 (B)/NMB-3(B)" style="@style/RegulatorySubLabel" />
+        <TextView android:text="Europe" style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_large_margin" android:src="@drawable/regulatory_marks_4" android:adjustViewBounds="true" />
+        <TextView android:text="South Korea" style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_small_margin" android:src="@drawable/regulatory_marks_5" android:adjustViewBounds="true" />
+        <TextView android:layout_marginBottom="@dimen/regulatory_large_margin" android:text="MSIP-REM-FLI-FLIRONE" style="@style/RegulatorySubLabel" />
+        <TextView android:text="Japan" style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_large_margin" android:src="@drawable/regulatory_marks_6" android:adjustViewBounds="true" />
+        <TextView android:text="Australia/New Zealand" style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_large_margin" android:src="@drawable/regulatory_marks_7" android:adjustViewBounds="true" />
+        <TextView android:text="Russia" style="@style/RegulatoryLabel" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/regulatory_medium_margin" android:src="@drawable/regulatory_marks_8" android:adjustViewBounds="true" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <include android:id="@id/presenter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:layout_toLeftOf="@id/toggle" android:layout_centerVertical="true" layout="@layout/widget_value_presenter" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lines="1" android:layout_toLeftOf="@id/presenter" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:fontFamily="sans-serif-light" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/toggle" android:background="?selectableItemBackground" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/formattedValue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/expand" />
+            <ImageView android:id="@id/expand" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_expand_more" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include android:id="@id/dialer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@android:id/title" android:layout_centerHorizontal="true" layout="@layout/widget_number_dialer" />
+</LinearLayout>

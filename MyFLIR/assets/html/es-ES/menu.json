@@ -1,0 +1,126 @@
+﻿[
+  {
+    "title":"Acerca de MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Acerca de MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Acerca de las imágenes termográficas",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Aplicaciones",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Guía de inicio rápido",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navegación",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Almacenamiento de una imagen",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Almacenamiento de un clip de vídeo",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Medición de una temperatura",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Calibración",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Cambio de paleta",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Ajustes de la imagen",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Ajustes de la imagen",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+
+  {
+    "title":"Modo de baja ganancia",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Grabación de un vídeo de intervalo de tiempo",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"Transmisión en vivo de YouTube",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Usar mediciones de la región de interés",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Usar mediciones de la región de interés",
+      "url":"roi.htm"
+    },
+   {
+      "title":"Usar escala de infrarrojos",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Alarma isotérmica",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Utilización del temporizador",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Apertura de una imagen",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Integración de FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Encendido del flash",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Alineación del usuario",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+  },
+    {
+      "title":"Modificación de la configuración",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Atención al cliente",
+      "url":"support.htm"
+   },
+    {
+      "title":"Acerca de Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

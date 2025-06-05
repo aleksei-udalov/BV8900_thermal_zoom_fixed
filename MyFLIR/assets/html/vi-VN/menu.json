@@ -1,0 +1,110 @@
+﻿[
+  {
+    "title":"Giới thiệu MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Giới thiệu MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Giới thiệu công nghệ hình ảnh nhiệt",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Ứng dụng",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Điều hướng",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Mở ảnh",
+    "url":"openimage.htm"
+  },
+
+  {
+    "title":"Chế độ low gain (gain thấp)",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Hiệu chuẩn",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Thay đổi bảng màuี้",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Image Adjustments",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Image Adjustments",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Chế độ low gain (gain thấp)",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Tạo time-lapse video (video dạng thời gian trôi nhanh)",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Trực tiếp",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Dominančios srities matavimų naudojimas",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Dominančios srities matavimų naudojimas",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR skalės naudojimas",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Đẳng nhiệt",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Báo động bằng đẳng nhiệt",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Sử dụng bộ hẹn giờ",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Mở đèn flash",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Căn chỉnh",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Thay đổi cài đặt",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Giới thiệu về Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

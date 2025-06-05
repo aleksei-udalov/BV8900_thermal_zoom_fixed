@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"Про MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Про MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Про теплові зображення",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Способи застосування",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Навігація",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Як відкрити зображення",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Інтеграція FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Калібрування",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Як змінити палітру",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Коригування зображення",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Коригування зображення",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Режим низького приросту",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Створення уповільненого відео",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"Прямий эфір YouTube",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Викор. показників видимої області",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Викор. показників видимої області",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Викор. шкали ІЧ",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Ізотерма",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Сигнал ізотерми",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Використання таймера",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Увімкнення ліхтарика",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Користув. вирівнювання",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Як змінити налаштування",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Про Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

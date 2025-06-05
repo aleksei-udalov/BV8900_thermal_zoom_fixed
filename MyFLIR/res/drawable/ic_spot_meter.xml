@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector android:enterFadeDuration="@android:integer/config_shortAnimTime" android:exitFadeDuration="@android:integer/config_shortAnimTime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <path android:pathData="M8,12 L12,8 16,12 12,16z M12,0 v8 M12,16 v8 M0,12 h8 M16,12 h8" android:strokeColor="#ffffffff" android:strokeWidth="1.5" />
+        </vector>
+    </item>
+    <item android:state_enabled="false">
+        <vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <path android:pathData="M8,12 L12,8 16,12 12,16z M12,0 v8 M12,16 v8 M0,12 h8 M16,12 h8" android:strokeColor="#55ffffff" android:strokeWidth="1.5" />
+        </vector>
+    </item>
+</animated-selector>

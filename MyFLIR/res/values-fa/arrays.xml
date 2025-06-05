@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emissivity_entries">
+        <item>مات</item>
+        <item>نیمه‌مات</item>
+        <item>نیمه‌براق</item>
+        <item>براق</item>
+        <item>سفارشی</item>
+    </string-array>
+    <array name="flash_icons">
+        <item>@drawable/toolbar_torch_off</item>
+        <item>@drawable/toolbar_torch_on</item>
+    </array>
+    <array name="timer_icons">
+        <item>@drawable/toolbar_timer_off</item>
+        <item>@drawable/toolbar_timer_3s</item>
+        <item>@drawable/toolbar_timer_10s</item>
+    </array>
+    <integer-array name="timer_values">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </integer-array>
+</resources>

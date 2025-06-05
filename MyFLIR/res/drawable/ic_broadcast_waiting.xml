@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/ic_broadcast_white"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="outerCircle" android:animation="@anim/rotation_clockwise_easing" />
+    <target android:name="innerCircle" android:animation="@anim/rotation_counterclockwise_linear" />
+</animated-vector>

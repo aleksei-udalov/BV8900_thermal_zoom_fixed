@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_options">
+        <item>Prendre une photo</item>
+        <item>Vibrer</item>
+        <item>Recevoir une notification</item>
+    </string-array>
+    <string-array name="emissivity_entries">
+        <item>Mat</item>
+        <item>Semi-mat</item>
+        <item>Semi-brillant</item>
+        <item>Brillant</item>
+        <item>Personnalisé</item>
+    </string-array>
+    <array name="flash_icons">
+        <item>@drawable/toolbar_torch_off</item>
+        <item>@drawable/toolbar_torch_on</item>
+    </array>
+    <array name="timer_icons">
+        <item>@drawable/toolbar_timer_off</item>
+        <item>@drawable/toolbar_timer_3s</item>
+        <item>@drawable/toolbar_timer_10s</item>
+    </array>
+    <integer-array name="timer_values">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </integer-array>
+</resources>

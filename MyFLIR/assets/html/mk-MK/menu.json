@@ -1,0 +1,75 @@
+﻿[
+   {
+      "title":"За MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"За термичка обработка на слика",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"користење",
+      "url":"applications.htm"
+   },
+    {
+      "title":"користење",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Вчитување на слика",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools интеграција",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"калибрација",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Менување на палета",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"Преземање на крупен",
+      "url":"closeup.htm"
+   },
+    {
+      "title":"Креирање на време застаруваат видео",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Користење на регионот Мерењата",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Користење на Инфрацрвената скала",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"Употреба на тајмерот",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Вклучување на светилката",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"усогласување на сликата",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"менување на поставките",
+      "url":"settings.htm"
+   },
+    {
+      "title":"За Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

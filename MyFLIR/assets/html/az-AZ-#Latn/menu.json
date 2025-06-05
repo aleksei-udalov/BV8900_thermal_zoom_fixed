@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"MyFLIR haqqında",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"MyFLIR haqqında",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Termal görüntüləmə haqqında",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Tətbiqlər",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Naviqasiya",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Görüntünün saxlanılması",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"Görüntünün açılması",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools-un İnteqrasiyası",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Video klipin saxlanılması",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"Düşük mənfəət rejimi",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"Kalibrləmə",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Palitenin dəyişməsi",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Görüntünün uyğunlaşdırılması",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Görüntünün uyğunlaşdırılması",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Taymlaps (yavaşlatılmış çəkiliş) videosu yaratmaq",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Canlı Yayım",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Faiz sahəsi (ROI) ölçü istifadə",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Faiz sahəsi (ROI) ölçü istifadə",
+      "url":"roi.htm"
+    },
+    {
+      "title":"İQ Ölçüsünü istifadə",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"İzoterm",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"İzoterm Həyacan Siqnalı",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Taymeri istifadə edin",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"İşığın yandırılması",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"İstifadəçi Düzəlişləri",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Ayarları dəyişdirmək",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Teledyne FLIR haqqında",
+      "url":"aboutflir.htm"
+    }
+]

@@ -1,0 +1,52 @@
+.class final Le4/n;
+.super Lm3/a$a;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Lm3/a$a<",
+        "Lc4/n;",
+        "Lm3/a$d$c;",
+        ">;"
+    }
+.end annotation
+
+
+# direct methods
+.method constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Lm3/a$a;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic c(Landroid/content/Context;Landroid/os/Looper;Lo3/e;Ljava/lang/Object;Lm3/f$b;Lm3/f$c;)Lm3/a$f;
+    .locals 7
+
+    check-cast p4, Lm3/a$d$c;
+
+    new-instance p0, Lc4/n;
+
+    const-string v5, "locationServices"
+
+    move-object v0, p0
+
+    move-object v1, p1
+
+    move-object v2, p2
+
+    move-object v3, p5
+
+    move-object v4, p6
+
+    move-object v6, p3
+
+    invoke-direct/range {v0 .. v6}, Lc4/n;-><init>(Landroid/content/Context;Landroid/os/Looper;Lm3/f$b;Lm3/f$c;Ljava/lang/String;Lo3/e;)V
+
+    return-object p0
+.end method

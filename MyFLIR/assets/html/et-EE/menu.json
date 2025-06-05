@@ -1,0 +1,80 @@
+﻿[
+   {
+      "title":"MyFLIR-i teave",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Termopildistamisest",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Rakendused",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigeerimine",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Pildi avamine",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Toolsi integreerimine",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Kalibreerimine",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Paleti muutmine",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"Lähivõtte tegemine",
+      "url":"closeup.htm"
+   },
+
+  {
+    "title":"Madala võimenduse režiim",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Aegvõtte tegemine",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"HP mõõtmiste kasutamine",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR-skaala kasutamine",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"Taimeri kasutamine",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Välklambi sisse lülitamine",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Kasutaja sobitamine",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Sätete muutmine",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Teledyne FLIRi kohta",
+      "url":"aboutflir.htm"
+    }
+]

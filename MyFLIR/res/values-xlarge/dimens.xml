@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="abc_dialog_fixed_width_major">50.0%</item>
+    <item type="dimen" name="abc_dialog_fixed_width_minor">70.00001%</item>
+    <item type="dimen" name="abc_dialog_min_width_major">45.000004%</item>
+    <item type="dimen" name="abc_dialog_min_width_minor">72.0%</item>
+    <dimen name="live_modes_type_one_icon_size">120.0dip</dimen>
+    <dimen name="live_modes_type_one_row_spacing_horizontal">140.0dip</dimen>
+    <dimen name="live_modes_type_one_row_spacing_vertical">125.0dip</dimen>
+</resources>

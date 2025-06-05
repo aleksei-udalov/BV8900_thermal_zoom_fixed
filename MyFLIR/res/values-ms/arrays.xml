@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_options">
+        <item>Rakam Foto</item>
+        <item>Getar</item>
+        <item>Pemberitahuan Tolak</item>
+    </string-array>
+    <string-array name="emissivity_entries">
+        <item>Kusam</item>
+        <item>Separuh Kusam</item>
+        <item>Separuh Licau</item>
+        <item>Licau</item>
+        <item>Tersuai</item>
+    </string-array>
+    <array name="flash_icons">
+        <item>@drawable/toolbar_torch_off</item>
+        <item>@drawable/toolbar_torch_on</item>
+    </array>
+    <array name="timer_icons">
+        <item>@drawable/toolbar_timer_off</item>
+        <item>@drawable/toolbar_timer_3s</item>
+        <item>@drawable/toolbar_timer_10s</item>
+    </array>
+    <integer-array name="timer_values">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="#cc000000" android:paddingLeft="@dimen/live_modes_type_two_side_padding" android:paddingRight="@dimen/live_modes_type_two_side_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout style="@style/LiveModesViewTypeTwoRow">
+            <LinearLayout android:id="@id/icon_mode_photo" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:id="@id/live_modes_icon_photo" android:src="@drawable/btn_live_mode_photo" style="@style/LiveModesViewTypeTwoIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_photo" style="@style/LiveModesViewTypeTwoLabel" />
+            </LinearLayout>
+            <TextView android:layout_marginLeft="@dimen/live_modes_type_two_icon_description_spacing_horizontal" android:text="@string/live_mode_description_photo" android:layout_toRightOf="@id/icon_mode_photo" style="@style/LiveModesViewTypeTwoDescription" />
+        </RelativeLayout>
+        <ImageView style="@style/LiveModesViewTypeTwoDividerLine" />
+        <RelativeLayout style="@style/LiveModesViewTypeTwoRow">
+            <LinearLayout android:id="@id/icon_mode_video" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:id="@id/live_modes_icon_video" android:src="@drawable/btn_live_mode_video" style="@style/LiveModesViewTypeTwoIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_video" style="@style/LiveModesViewTypeTwoLabel" />
+            </LinearLayout>
+            <TextView android:layout_marginLeft="@dimen/live_modes_type_two_icon_description_spacing_horizontal" android:text="@string/live_mode_description_video" android:layout_toRightOf="@id/icon_mode_video" style="@style/LiveModesViewTypeTwoDescription" />
+        </RelativeLayout>
+        <ImageView style="@style/LiveModesViewTypeTwoDividerLine" />
+        <RelativeLayout android:id="@id/pano_info_container" style="@style/LiveModesViewTypeTwoRow">
+            <LinearLayout android:id="@id/icon_mode_panorama" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:id="@id/live_modes_icon_panorama" android:src="@drawable/btn_live_mode_panorama" style="@style/LiveModesViewTypeTwoIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_panorama" style="@style/LiveModesViewTypeTwoLabel" />
+            </LinearLayout>
+            <TextView android:layout_marginLeft="@dimen/live_modes_type_two_icon_description_spacing_horizontal" android:text="@string/live_mode_description_panorama" android:layout_toRightOf="@id/icon_mode_panorama" style="@style/LiveModesViewTypeTwoDescription" />
+        </RelativeLayout>
+        <ImageView style="@style/LiveModesViewTypeTwoDividerLine" />
+        <RelativeLayout style="@style/LiveModesViewTypeTwoRow">
+            <LinearLayout android:id="@id/icon_mode_timelapse" style="@style/LiveModesViewIconWrapper">
+                <ImageView android:id="@id/live_modes_icon_timelapse" android:src="@drawable/btn_live_mode_timelapse" style="@style/LiveModesViewTypeTwoIcon" />
+                <TextView android:layout_marginTop="@dimen/live_modes_icon_label_spacing_vertical" android:text="@string/live_mode_caption_timelapse" style="@style/LiveModesViewTypeTwoLabel" />
+            </LinearLayout>
+            <TextView android:layout_marginLeft="@dimen/live_modes_type_two_icon_description_spacing_horizontal" android:text="@string/live_mode_description_timalapse" android:layout_toRightOf="@id/icon_mode_timelapse" style="@style/LiveModesViewTypeTwoDescription" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

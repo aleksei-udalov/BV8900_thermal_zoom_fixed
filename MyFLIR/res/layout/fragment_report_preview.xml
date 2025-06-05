@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@android:id/empty" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Generating...." />
+        <ProgressBar android:layout_gravity="center" android:id="@id/progressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" style="?android:progressBarStyleLarge" />
+    </LinearLayout>
+    <androidx.viewpager.widget.ViewPager android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" />
+</FrameLayout>

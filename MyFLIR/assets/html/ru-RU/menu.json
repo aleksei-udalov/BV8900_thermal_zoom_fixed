@@ -1,0 +1,125 @@
+﻿[
+  {
+    "title":"Об устройстве MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Об устройстве MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"О технологии тепловидения",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Применения",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Краткое руководство",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Перемещение",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Сохранение изображения",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Сохранение видеоролика",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Измерение температуры",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Калибровка",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Изменение палитры",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Корректировки изображения",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Корректировки изображения",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Режим низкого усиления",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Создание видео в замедленной съемке",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"Прямой эфир YouTube",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Использование таймера",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Открытие изображения",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Интеграция FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"Использ. измерения",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+      "title":"Использ. измерения",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Использ. шкалы ИК",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Изотерма",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Изотермическое уведомление",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Включение лампы",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Пользов. выравнивание",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+   },
+    {
+      "title":"Изменение настроек",
+      "url":"settings.htm"
+    },
+    {
+      "title":"Поддержка клиентов",
+      "url":"support.htm"
+   },
+    {
+      "title":"О Теледайн FLIR",
+      "url":"aboutflir.htm"
+    }
+]

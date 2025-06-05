@@ -1,0 +1,17 @@
+<svg fill="#FFFFFF" height="24" viewBox="0 0 64 64" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#FFF" d="M56.3,1L7.7,1C3.9,1 0.8,4.2 0.8,6.8l0,12.5l7,1l0,-13.5L56.3,8l0,12.3l6.9,-1V8C63.2,4.2 60.1,1 56.3,1z"/>
+    <path fill="#FFF" d="M6.7,20.1l0,-16.7l50.6,0l0,16.8l-25.3,3.6z"/>
+    <path fill="#FFF" d="M0.8,25.8l0,6.9l31.1,5l31.3,-5l0,-6.9l-31.3,4.9z"/>
+    <path fill="#FFF" d="M0.8,42.1h6.9v6.9h-6.9z"/>
+
+    <path fill="#FFF" d="M42.4,56h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M63.2,56l-6.9,0v6.9C60.1,62.9 63.2,59.8 63.2,56z"/>
+    <path fill="#FFF" d="M14.7,56h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M56.3,42.1h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M28.5,56h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M0.8,56c0,3.8 3.1,6.9 6.9,6.9l0,-6.9H0.8z"/>
+    <path fill="#FFF" d="M42.4,42.1h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M14.7,42.1h6.9v6.9h-6.9z"/>
+    <path fill="#FFF" d="M28.5,42.1h6.9v6.9h-6.9z"/>
+
+</svg>

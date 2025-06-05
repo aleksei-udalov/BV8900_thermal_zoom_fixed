@@ -1,0 +1,99 @@
+﻿[
+   {
+      "title":"O zařízení MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"O teplotním zobrazování",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Oblasti použití",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Stručný návod k používání",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navigace",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Ukládání obrázku",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Ukládání videoklipu",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Měření teploty",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibrace",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Změna palety",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"Pořízení detailního záběru",
+      "url":"closeup.htm"
+   },
+
+  {
+    "title":"Režim nízkého zesílení",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Vytváření časosběrného videa",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube živě",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Používání časového spínače",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Otevírání obrazu",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Integrace aplikace FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Zapnutí lampy",
+      "url":"lamp.htm"
+   },
+    {
+      "title":"Změna nastavení",
+      "url":"settings.htm"
+   },
+   {
+      "title":"Použití měření oblastí zájmu",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Použití infračervené stupnice",
+      "url":"irscale.htm"
+    },
+    {
+    "title":"Uživatelské zarovnání",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Zákaznická podpora",
+      "url":"support.htm"
+   },
+    {
+      "title":"O Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

@@ -1,0 +1,80 @@
+﻿[
+   {
+      "title":"درباره MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"درباره تصویربرداری حرارتی",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"برنامه‌ها",
+      "url":"applications.htm"
+   },
+    {
+      "title":"پیمایش",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"باز کردن تصویر",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"یکپارچگی FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"کالیبراسیون",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"تغییر پالت",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"گرفتن نمای نزدیک",
+      "url":"closeup.htm"
+   },
+
+  {
+    "title":"حالت بهره پایین",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"ایجاد فیلم زمان‌گریز",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube زنده",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"استفاده از اندازه‌گیری‌های منطقه مورد علاقه",
+      "url":"roi.htm"
+    },
+    {
+      "title":"استفاده از مقیاس فروسرخ",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"استفاده از تایمر",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"روشن کردن فلاش",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"انطباق تصاویر توسط کاربر",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"تغییر تنظیمات",
+      "url":"settings.htm"
+   },
+    {
+      "title":"درباره Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

@@ -1,0 +1,88 @@
+﻿[
+  {
+    "title":"Informacije o MyFLIR",
+    "url":"aboutone.htm"
+  },
+  {
+    "title":"Informacije o termalnom oslikavanju",
+    "url":"aboutthermal.htm"
+  },
+  {
+    "title":"Primjene",
+    "url":"applications.htm"
+  },
+  {
+    "title":"Navigacija",
+    "url":"navigating.htm"
+  },
+  {
+    "title":"Spremanje slike",
+    "url":"savingimage.htm"
+  },
+  {
+    "title":"Otvaranje slike",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Integracija aplikacije FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"Spremanje videoisječka",
+    "url":"savingvideo.htm"
+  },
+
+  {
+    "title":"Način rada manje osjetljivosti",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"Kalibracija",
+    "url":"calibration.htm"
+  },
+  {
+    "title":"CMijenjanje palete",
+    "url":"palette.htm"
+  },
+  {
+    "title":"Izrada slika objekata u krupnom planu",
+    "url":"closeup.htm"
+  },
+  {
+    "title":"Izrada videozapisa uzastopnim snimanjem",
+    "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Upotreba mjerenja područja od interesa (ROI)",
+    "url":"roi.htm"
+  },
+  {
+    "title":"Upotreba infracrvenog spektra",
+    "url":"irscale.htm"
+  },
+  {
+    "title":"Upotreba mjerača vremena",
+    "url":"timer.htm"
+  },
+
+  {
+    "title":"Uključivanje svjetiljke",
+    "url":"lamp.htm"
+  },
+  {
+    "title":"Korisničko poravnanje",
+    "url":"useralignment.htm"
+  },
+  {
+    "title":"Mijenjanje postavki",
+    "url":"settings.htm"
+  },
+  {
+    "title":"O Teledyne FLIR",
+    "url":"aboutflir.htm"
+  }
+]

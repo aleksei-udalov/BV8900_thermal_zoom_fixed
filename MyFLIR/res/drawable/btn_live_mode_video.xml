@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:constantSize="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/btn_ring_video_pressed" />
+    <item android:state_selected="true" android:drawable="@drawable/btn_ring_photo_pressed" />
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="oval" android:innerRadius="100.0dip">
+                    <stroke android:width="2.0dip" android:color="@android:color/white" />
+                </shape>
+            </item>
+            <item android:gravity="center" android:height="50.0dip" android:width="50.0dip" android:drawable="@drawable/ic_videocam_white_60dp" />
+        </layer-list>
+    </item>
+</selector>

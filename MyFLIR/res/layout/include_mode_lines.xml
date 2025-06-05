@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="top" android:id="@id/modeLine1" android:background="@color/mode_line_default" android:layout_width="fill_parent" android:layout_height="@dimen/mode_line_size" />
+    <View android:layout_gravity="bottom" android:id="@id/modeLine2" android:background="@color/mode_line_default" android:layout_width="fill_parent" android:layout_height="@dimen/mode_line_size" />
+</merge>

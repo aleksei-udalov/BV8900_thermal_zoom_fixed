@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"MyFLIR का परिचय",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+  {
+    "title":"MyFLIR का परिचय",
+    "url":"aboutone.htm"
+  },
+  {
+    "title":"तापीय छवि-निर्माण का परिचय",
+    "url":"aboutthermal.htm"
+  },
+  {
+    "title":"एप्लिकेशन",
+    "url":"applications.htm"
+  },
+  {
+    "title":"नेविगेशन",
+    "url":"navigating.htm"
+  },
+  {
+    "title":"छवि सहेजना",
+    "url":"savingimage.htm"
+  },
+  {
+    "title":"Oछवि खोलना",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools एकीकरण",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"वीडियो क्लिप सहेजना",
+    "url":"savingvideo.htm"
+  },
+
+  {
+    "title":"यून प्राप्ति मोड",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"कैलिब्रेशन",
+    "url":"calibration.htm"
+  },
+  {
+    "title":"पैलेट बदलना",
+    "url":"palette.htm"
+  },
+  {
+    "title":"छवि समायोजन",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"छवि समायोजन",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Cबीता-समय वीडियो बनाना",
+    "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"ROI माप का उपयोग करना",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+    "title":"ROI माप का उपयोग करना",
+    "url":"roi.htm"
+  },
+  {
+    "title":"IR स्केल का उपयोग करना",
+    "url":"irscale.htm"
+  },
+  {
+    "title":"आइसोथर्म ",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"आइसोथर्म अलार्म",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"टाइमर का उपयोग करना",
+    "url":"timer.htm"
+  },
+
+  {
+    "title":"लैंप चालू करना",
+    "url":"lamp.htm"
+  },
+  {
+    "title":"उपयोगकर्ता मिलान",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"सेटिंग्स बदलना",
+    "url":"settings.htm"
+  },
+  {
+    "title":"Teledyne FLIR के बारे में",
+    "url":"aboutflir.htm"
+  }
+]

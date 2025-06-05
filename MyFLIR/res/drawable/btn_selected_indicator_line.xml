@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector android:constantSize="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <size android:height="3.0dip" android:width="48.0dip" />
+            <corners android:radius="0.5dip" />
+            <stroke android:width="2.0dip" android:color="@color/button_tint" />
+        </shape>
+    </item>
+</animated-selector>

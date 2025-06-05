@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"Info su MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+  {
+    "title":"Info su MyFLIR",
+    "url":"aboutone.htm"
+  },
+  {
+    "title":"Info sulla visualizzazione a infrarossi",
+    "url":"aboutthermal.htm"
+  },
+  {
+    "title":"Applicazioni",
+    "url":"applications.htm"
+  },
+  {
+    "title":"Navigazione",
+    "url":"navigating.htm"
+  },
+  {
+    "title":"Salvare un'immagine",
+    "url":"savingimage.htm"
+  },
+  {
+    "title":"Aprire un'immagine",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Integrazione di FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+  {
+    "title":"Salvare un videoclip",
+    "url":"savingvideo.htm"
+  },
+
+  {
+    "title":"modalità Sensibilità bassa",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"Calibrazione",
+    "url":"calibration.htm"
+  },
+  {
+    "title":"Cambiare la palette",
+    "url":"palette.htm"
+  },
+  {
+    "title":"Regolazioni dell'immagine",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Regolazioni dell'immagine",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Creare un video time-lapse",
+    "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Uso misure ROI in corso...",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+    "title":"Uso misure ROI in corso...",
+    "url":"roi.htm"
+  },
+  {
+    "title":"Uso scala IR in corso...",
+    "url":"irscale.htm"
+  },
+  {
+    "title":"Isoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Allarme isoterma",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Usare il timer",
+    "url":"timer.htm"
+  },
+
+  {
+    "title":"Accendere la torcia",
+    "url":"lamp.htm"
+  },
+  {
+    "title":"Allineamento utente",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Modificare le impostazioni",
+    "url":"settings.htm"
+  },
+  {
+    "title":"Informazioni su Teledyne FLIR",
+    "url":"aboutflir.htm"
+  }
+]

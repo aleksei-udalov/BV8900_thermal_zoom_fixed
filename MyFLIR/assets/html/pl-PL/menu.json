@@ -1,0 +1,126 @@
+﻿[
+  {
+    "title":"MyFLIR – informacje",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"MyFLIR – informacje",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Informacje o obrazach termowizyjnych",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Zastosowania",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Skrócona instrukcja obsługi",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Nawigacja",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Zapisywanie obrazu",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Zapisywanie filmu",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Pomiar temperatury",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibracja",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Zmiana palety",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Ustawienia obrazu",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Ustawienia obrazu",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+
+  {
+    "title":"Tryb niskiego wzmocnienia",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Tworzenie filmu poklatkowego",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Używanie czasomierza",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Otwieranie obrazu",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Integracja z FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Włączanie lampy",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Korzystanie z pomiarów",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Korzystanie z pomiarów",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Korzystanie ze skali podczerwieni",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Izotermy",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Alarm izotermy",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+    "title":"Nakładanie obrazów przez użytkownika",
+    "url":"useralignment.htm",
+      "feature": "Msx"
+  },
+    {
+      "title":"Zmiana ustawień",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Pomoc techniczna",
+      "url":"support.htm"
+   },
+    {
+      "title":"O Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

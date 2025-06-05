@@ -1,0 +1,105 @@
+﻿[
+  {
+    "title":"حول MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"حول MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"نبذة عن التصوير الحراري",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"التطبيقات",
+      "url":"applications.htm"
+   },
+    {
+      "title":"التنقل",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"فتح الصورة",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"التكامل مع تطبيق FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"المعايرة",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"تغيير لوحة الألوان",
+      "url":"palette.htm"
+   },
+  {
+    "title":"تعديلات الصورة",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"تعديلات الصورة",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"وضع الكسب المنخفض",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"إنشاء فيديو بلقطات متتابعة",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"بث مباشر على يوتيوب",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"استخدام قياسات منطقة الاهتمام",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"استخدام قياسات منطقة الاهتمام",
+      "url":"roi.htm"
+    },
+    {
+      "title":"استخدام مقياس الأشعة تحت الحمراء",
+      "url":"irscale.htm"
+    },
+  {
+    "title":" خطوط تَساوِي الحَرارَة",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"إنذار متساوي الحرارة",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"استخدام المؤقِت",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"تشغيل المصباح",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"محاذاة المستخدم",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"تغيير الإعدادات",
+      "url":"settings.htm"
+   },
+    {
+      "title":"نبذة عن Teledyne FLIR.",
+      "url":"aboutflir.htm"
+    }
+]

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+body{ background-color: #000000; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif; color: #CCCCCC; font-size:27px; font-weight:300; margin-top:0px;
+margin-bottom:50px;
+margin-right:10px;
+margin-left:10px;} 
+
+p{color: #CCCCCC}
+p.default{padding-top:0px; padding-bottom:0px; margin-top: 0px}
+li{padding-top:40px}
+lu img {max-height:20px}
+h1{ color: #FFFFFF; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue UltraLight", "Helvetica Neue", sans-serif; font-size:65px; font-weight:100; padding-top:20px}
+h2{ color: #0070E0; font-family:"Helvetica Neue",Helvetica, Arial, sans-serif; font-size:30px; padding-top:20px;padding-bottom:0px;margin-bottom:0px }
+h3{ color: #CCCCCC; font-family:"Helvetica Neue",Helvetica, Arial, sans-serif; font-size:30px; padding-top:20px;margin-bottom:0px}
+a:link {color:#0070E0;}    /* unvisited link */
+a:visited {color:#0070E0;} /* visited link */
+a:hover {color:#0070E0;}   /* mouse over link */
+a:active {color:#0070E0;}  /* selected link */
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+@font-face {
+  font-family: 'Font Awesome';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fontawesome-webfont.ttf") format("truetype");
+  }
+
+.fa {
+  font-family: 'Font Awesome';
+  font-weight: 400; }
+b.fa {
+    color: white;
+}
+.fa-list-alt:before {
+  content: "\f022"; }
+.fa-users:before {
+  content: "\f0c0"; }
+.fa-globe:before {
+content: "\f0ac"; }

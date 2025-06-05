@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flir.monarch.widget.NumberDialer android:id="@id/numberDialer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:rowCount="4" android:columnCount="3"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/one" android:text="1" style="@style/PickerNumber" />
+    <TextView android:id="@id/two" android:text="2" style="@style/PickerNumber" />
+    <TextView android:id="@id/three" android:text="3" style="@style/PickerNumber" />
+    <TextView android:id="@id/four" android:text="4" style="@style/PickerNumber" />
+    <TextView android:id="@id/five" android:text="5" style="@style/PickerNumber" />
+    <TextView android:id="@id/six" android:text="6" style="@style/PickerNumber" />
+    <TextView android:id="@id/seven" android:text="7" style="@style/PickerNumber" />
+    <TextView android:id="@id/eight" android:text="8" style="@style/PickerNumber" />
+    <TextView android:id="@id/nine" android:text="9" style="@style/PickerNumber" />
+    <TextView android:enabled="false" android:id="@id/star" style="@style/PickerNumber" />
+    <TextView android:id="@id/zero" android:text="0" style="@style/PickerNumber" />
+    <TextView android:enabled="false" android:id="@id/cross" style="@style/PickerNumber" />
+</com.flir.monarch.widget.NumberDialer>

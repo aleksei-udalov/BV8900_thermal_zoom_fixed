@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"MyFLIR 정보",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"MyFLIR 정보",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"열화상 이미징이란",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"응용",
+      "url":"applications.htm"
+   },
+    {
+      "title":"탐색",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"이미지 저장 중",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"이미지 열기",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR 도구 통합",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"비디오 클립 저장하기",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"고온 모드",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"보정",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"팔레트 변경",
+      "url":"palette.htm"
+   },
+  {
+    "title":"이미지 조정",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"이미지 조정",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"타임랩스 비디오 제작",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"측정치 사용",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"측정치 사용",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR 스케일 사용",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"등온선",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"등온선 알람",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"타이머 사용하기",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"램프 켜기",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"사용자 정렬",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"설정 변경",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Teledyne FLIR 소개",
+      "url":"aboutflir.htm"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/dialog_background" android:paddingLeft="@dimen/dialog_padding" android:paddingTop="@dimen/dialog_padding" android:paddingRight="@dimen/dialog_padding" android:paddingBottom="@dimen/dialog_padding" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/dialog_text_size_regular" android:textStyle="bold" android:textColor="@color/dialog_text_grey" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_emissivity_title" />
+        <RadioGroup android:orientation="vertical" android:id="@id/dialog_radio_group" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RadioButton android:text="@string/dialog_emissivity_option_matte" style="@style/DialogRadioButton" />
+            <RadioButton android:text="@string/dialog_emissivity_option_semimatte" style="@style/DialogRadioButton" />
+            <RadioButton android:text="@string/dialog_emissivity_option_semiglossy" style="@style/DialogRadioButton" />
+            <RadioButton android:text="@string/dialog_emissivity_option_glossy" style="@style/DialogRadioButton" />
+            <RadioButton android:id="@id/emissivity_radio_button_custom" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_emissivity_option_custom" style="@style/DialogRadioButton" />
+        </RadioGroup>
+        <EditText android:id="@id/text_custom_emissivity" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLength="4" android:inputType="numberDecimal" />
+        <TextView android:text="@string/dialog_emissivity_info_1" style="@style/DialogTextLabelSmall" />
+        <TextView android:text="@string/dialog_emissivity_info_2" style="@style/DialogTextLabelSmall" />
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="45.0dip">
+            <TextView android:id="@id/dialog_cancel" android:layout_marginRight="40.0dip" android:text="@string/dialog_cancel" style="@style/DialogCancelButton" />
+            <TextView android:id="@id/dialog_ok" android:paddingLeft="@dimen/dialog_button_clickable_margin_left_right" android:paddingRight="@dimen/dialog_button_clickable_margin_left_right" android:layout_marginRight="20.0dip" android:text="@string/dialog_ok" style="@style/DialogOkButton" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

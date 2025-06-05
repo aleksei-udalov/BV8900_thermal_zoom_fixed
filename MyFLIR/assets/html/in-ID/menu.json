@@ -1,0 +1,76 @@
+﻿[
+   {
+      "title":"Tentang MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Tentang pencitraan termal",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Penggunaan",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Navigasi",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Membuka gambar",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Kalibrasi",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Mengubah palet",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"Mengambil jarak dekat",
+      "url":"closeup.htm"
+   },
+    {
+      "title":"Membuat video kronologi",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+   
+    {
+      "title":"Penggunaan pengukuran wilayah",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Gunakan skala IR",
+      "url":"irscale.htm"
+    },
+    {
+      "title":"Menggunakan timer",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Menyalakan lampu",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Penjajaran",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Mengubah pengaturan",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Tentang Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

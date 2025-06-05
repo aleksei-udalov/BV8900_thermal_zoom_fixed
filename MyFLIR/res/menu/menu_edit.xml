@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_image_mode" android:id="@id/msx_ironly" android:title="@string/tooltip_blending_mode" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_measurement" android:id="@id/menu_spot" android:checked="true" android:title="@string/menu_toggle_measurements" android:checkable="true" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_gradient_white_24dp" android:id="@id/menu_ir_scale" android:title="@string/tooltip_ir_scale" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_text_input" android:id="@id/annotation" android:title="@string/report_info_notes" app:showAsAction="always" />
+    <item android:icon="@drawable/ic_palettes" android:id="@id/menu_palette" android:title="@string/menu_show_palettes" app:showAsAction="always" />
+</menu>

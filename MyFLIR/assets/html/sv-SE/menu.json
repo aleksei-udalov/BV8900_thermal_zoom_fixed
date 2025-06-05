@@ -1,0 +1,121 @@
+﻿[
+  {
+    "title":"About MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Om MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Om värmebilder",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Tillämpningar",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Snabbstartsguide",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navigering",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Spara en bild",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Spara ett videoklipp",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Kalibrering",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Byta paletten",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Bildjusteringar",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Bildjusteringar",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Low Gain-läge",
+    "url":"lowgain.htm"
+  },
+  {
+    "title":"Använder mätningar",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Använder mätningar",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Använder IR-skala",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isoterm",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Isotermiskt alarm",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Skapa en time-lapse-video",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Använda timern",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Öppna en bild",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Slå på lampan",
+      "url":"lamp.htm"
+   },
+    {
+      "title":"Ändra inställningar",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Kundsupport",
+      "url":"support.htm"
+   },
+   {
+    "title":"Användarjustering",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+   },
+    {
+      "title":"Om Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

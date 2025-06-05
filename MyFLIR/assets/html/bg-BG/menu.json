@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"Относно MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Относно MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Относно термичното изобразяване",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Приложения",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Навигация",
+      "url":"navigating.htm"
+   },
+    
+  {
+    "title":"Отваряне на изображение",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Интеграция на FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Калибриране",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Промяна на палитрата",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Настройки на изображението",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Настройки на изображението",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Режим на ниско усилване",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Създаване на видеоклип от снимки в определен период от време",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Използване на измервания за ROI (област на интерес)",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+  {
+    "title":"Използване на измервания за ROI (област на интерес)",
+    "url":"roi.htm"
+  },
+    {
+      "title":"Използване на IR скала",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Изотерма",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Изотермна аларма",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Използване на таймераr",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Включване на лампата",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Подравняване на потребителя",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Промяна на настройките",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Относно Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

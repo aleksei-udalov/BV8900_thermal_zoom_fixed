@@ -1,0 +1,119 @@
+﻿[
+   {
+      "title":"Πληροφορίες για τη συσκευή MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Πληροφορίες για τη θερμική απεικόνιση",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Εφαρμογές",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Οδηγός γρήγορης εκκίνησης",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Πλοήγηση",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Αποθήκευση εικόνας",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Αποθήκευση αποσπάσματος βίντεο",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Μέτρηση θερμοκρασίας",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Βαθμονόμηση",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Αλλαγή παλέτας",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Προσαρμογές εικόνας",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Προσαρμογές εικόνας",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Κατάσταση Χαμηλής απολαβής",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Δημιουργία βίντεο με παρέλευση χρόνου",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Χρήση του χρονομέτρου",
+      "url":"timer.htm"
+   },
+  {
+    "title":"Χρήση μετρήσεων ΠΕ",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Χρήση μετρήσεων ΠΕ",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Χρήση κλίμακας IR",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Λειτουργία Ισοθερμικών εικόνων",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Συναγερμός Ισοθερμικών εικόνων",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Άνοιγμα μιας εικόνας",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"Ενσωμάτωση FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Ενεργοποίηση της λυχνίας",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Ευθυγράμμιση από τον χρήστη",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Αλλαγή ρυθμίσεων",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Υποστήριξη πελατών",
+      "url":"support.htm"
+   },
+    {
+      "title":"Σχετικά με το Teledyne FLIR\n",
+      "url":"aboutflir.htm"
+    }
+]

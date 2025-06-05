@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <path android:fillColor="@drawable/$ic_isotherm_range__0" android:pathData="M7.41,18.59L8.83,20L12,16.83L15.17,20L16.58,18.59L12,14L7.41,18.59Z" android:strokeColor="#ffffffff" android:strokeWidth="0.25" android:strokeAlpha="0.67" />
+        <path android:fillColor="@drawable/$ic_isotherm_range__1" android:pathData="M16.59,5.41L15.17,4L12,7.17L8.83,4L7.41,5.41L12,10L16.59,5.41Z" android:strokeColor="#ffffffff" android:strokeWidth="0.25" android:strokeAlpha="0.67" />
+    </group>
+</vector>

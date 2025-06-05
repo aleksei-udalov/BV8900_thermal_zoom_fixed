@@ -1,0 +1,106 @@
+﻿[
+  {
+    "title":"Informácie o aplikácii MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Informácie o aplikácii MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Informácie o termozobrazení",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Aplikácie",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Prehľadávanie",
+      "url":"navigating.htm"
+   },
+  {
+    "title":"Otvorenie obrázka",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"Integrácia FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Kalibrácia",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Zmena palety",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Úpravy obrázkov",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Úpravy obrázkov",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Režim slabého zosilnenia",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Vytvorenie časozberného videa",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Používanie meraní záujmových bodov",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Používanie meraní záujmových bodov",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Používanie IČ škály",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Izoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Izotermické upozornenie",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Používanie časovača",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Zapnutie osvetlenia",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Používateľské zosúladenie",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Zmena nastavení",
+      "url":"settings.htm"
+   },
+    {
+      "title":"O Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

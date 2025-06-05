@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonMode">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/btn_mode</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_width">50.0dip</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:layout_margin">4.0dip</item>
+        <item name="android:text">@string/btn_live_mode</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>

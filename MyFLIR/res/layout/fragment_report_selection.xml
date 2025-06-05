@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/report_info_title" />
+        <EditText android:id="@id/reportTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/default_report_title" android:inputType="textCapWords" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/report_info_notes" />
+        <LinearLayout android:orientation="vertical" android:id="@id/reportCommentsContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/abc_text_size_subhead_material" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/settings_padding" android:text="@string/report_selection_intro" />
+        <LinearLayout android:gravity="fill_horizontal" android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/palette_margin">
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+            <ImageButton android:gravity="center" android:id="@id/previewOneButton" android:layout_width="72.0dip" android:layout_height="96.0dip" android:src="@drawable/ic_placeholder" android:scaleType="fitCenter" android:cropToPadding="false" android:onClick="onTemplateSelected" style="@android:style/Widget.Material.Button.Inset" />
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+            <ImageButton android:gravity="center" android:id="@id/previewTwoButton" android:layout_width="72.0dip" android:layout_height="96.0dip" android:src="@drawable/ic_placeholder" android:scaleType="fitCenter" android:cropToPadding="false" android:onClick="onTemplateSelected" style="@android:style/Widget.Material.Button.Inset" />
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+            <ImageButton android:gravity="center" android:id="@id/previewThreeButton" android:layout_width="72.0dip" android:layout_height="96.0dip" android:src="@drawable/ic_placeholder" android:scaleType="fitCenter" android:cropToPadding="false" android:onClick="onTemplateSelected" style="@android:style/Widget.Material.Button.Inset" />
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+            <ImageButton android:gravity="center" android:id="@id/previewFourButton" android:layout_width="72.0dip" android:layout_height="96.0dip" android:src="@drawable/ic_placeholder" android:scaleType="fitCenter" android:cropToPadding="false" android:onClick="onTemplateSelected" style="@android:style/Widget.Material.Button.Inset" />
+            <View android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

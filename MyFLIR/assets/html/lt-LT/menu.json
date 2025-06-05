@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"About MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Apie „MyFLIR“",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Apie šiluminių vaizdų gavimą",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Naudojimo būdai",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Naršymas",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Atvaizdo išsaugojimas",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"Vaizdo atidarymas",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"„FLIR Tools“ integravimas",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Vaizdo įrašo išsaugojimas",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"Mažo pasiekiamumo režimas",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"Kalibravimas",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Paletės keitimas",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Vaizdo koregavimas",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Vaizdo koregavimas",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Sulėtinto vaizdo įrašo kūrimas",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"\"YouTube\" tiesioginis srautas",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Dominančios srities matavimų naudojimas",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Dominančios srities matavimų naudojimas",
+      "url":"roi.htm"
+    },
+    {
+      "title":"IR skalės naudojimas",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Izoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Izoterminis aliarmas",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Laikmačio naudojimas",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Lemputės įjungimas",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Naudotojo lygiavimas",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Nuostatų keitimas",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Apie Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

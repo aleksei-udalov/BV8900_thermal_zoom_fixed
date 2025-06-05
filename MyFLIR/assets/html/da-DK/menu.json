@@ -1,0 +1,99 @@
+﻿[
+   {
+      "title":"Om MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Om termiske billeder",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Anvendelser",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Startvejledning",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navigation",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Lagring af et billede",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Lagring af et videoklip",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"Måling af temperatur",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibrering",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Ændring af paletten",
+      "url":"palette.htm"
+   },
+ 	{
+      "title":"Optagelse af et nærbillede",
+      "url":"closeup.htm"
+   },
+
+  {
+    "title":"Lav gain tilstand",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Optagelse af en tidsintervalvideo",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"Anvendelse af timeren",
+      "url":"timer.htm"
+   },
+    {
+      "title":"Åbning af et billede",
+      "url":"openimage.htm"
+   },
+   {
+      "title":"Brug af interesseområdemålinger",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Brug af infrarød skala",
+      "url":"irscale.htm"
+    },
+   {
+    "title":"Integrering af FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"Sådan tænder du lampen",
+      "url":"lamp.htm"
+   },
+   {
+    "title":"Bruger billede justering",
+    "url":"useralignment.htm"
+  },
+    {
+      "title":"Ændring af indstillinger",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Kundesupport",
+      "url":"support.htm"
+   },
+    {
+      "title":"Om Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

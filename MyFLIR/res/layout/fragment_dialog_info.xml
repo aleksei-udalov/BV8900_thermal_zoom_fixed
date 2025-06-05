@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/dialog_background" android:padding="@dimen/padding_dialog_info" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/includeInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/spacing_dialog_info" layout="@layout/include_dialog_info" />
+    <org.osmdroid.views.MapView android:id="@id/mapView" android:visibility="invisible" android:layout_width="310.0dip" android:layout_height="195.0dip" />
+</LinearLayout>

@@ -1,0 +1,115 @@
+﻿[
+  {
+    "title":"Mengenai MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Mengenai MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Mengenai pengimejan terma",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Aplikasi",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Pengemudian",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Menyimpan imej",
+      "url":"savingimage.htm"
+   },
+  {
+    "title":"Membuka imej",
+    "url":"openimage.htm"
+  },
+  {
+    "title":"FLIR Tools",
+    "url":"flirtoolsintegration.htm"
+  },
+   {
+      "title":"Menyimpan klip video",
+      "url":"savingvideo.htm"
+   },
+
+   {
+      "title":"Mod Gandaan Rendah",
+      "url":"lowgain.htm"
+   },
+   {
+      "title":"Penentukuran",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Mengubah palet",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Pelarasan Gambar",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Pelarasan Gambar",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Mencipta video selang masa",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"Siaran Langsung YouTube",
+    "url":"youtubelive.htm"
+  },
+  {
+    "title":"Menggunakan Pengukuran ROI",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+    {
+      "title":"Menggunakan Pengukuran ROI",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Menggunakan Skala IR",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isoterma",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Penggera Isoterma",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Menggunakan pemasa",
+      "url":"timer.htm"
+   },
+
+    {
+      "title":"Menghidupkan lampu",
+      "url":"lamp.htm"
+   },
+  {
+    "title":"Penjajaran Pengguna",
+    "url":"useralignment.htm",
+    "feature": "Msx"
+  },
+    {
+      "title":"Mengubah tetapan",
+      "url":"settings.htm"
+   },
+    {
+      "title":"Mengenai Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

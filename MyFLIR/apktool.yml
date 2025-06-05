@@ -1,0 +1,27 @@
+version: 2.11.1
+apkFileName: MyFLIR.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 29
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 177
+  versionName: 3.0.77
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- dex
+- mp3
+- ogg
+- png
+- so
+- webp

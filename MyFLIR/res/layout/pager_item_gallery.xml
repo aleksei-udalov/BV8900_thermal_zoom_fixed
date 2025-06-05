@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.flir.monarch.widget.FlirView android:id="@id/imageIR" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/stubVideo" android:layout="@layout/stub_page_video" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/stubImage" android:layout="@layout/stub_page_image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

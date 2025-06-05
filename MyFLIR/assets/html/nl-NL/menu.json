@@ -1,0 +1,125 @@
+﻿[
+  {
+    "title":"Informatie over de MyFLIR",
+    "url":"about-s62.htm",
+    "model": "S62 Pro"
+  },
+   {
+      "title":"Informatie over de MyFLIR",
+      "url":"aboutone.htm"
+   },
+    {
+      "title":"Informatie over warmtebeelden",
+      "url":"aboutthermal.htm"
+   },
+    {
+      "title":"Toepassingen",
+      "url":"applications.htm"
+   },
+    {
+      "title":"Snelstartgids",
+      "url":"quickstart.htm"
+   },
+    {
+      "title":"Navigatie",
+      "url":"navigating.htm"
+   },
+    {
+      "title":"Een beeld opslaan",
+      "url":"savingimage.htm"
+   },
+   {
+      "title":"Een videoclip opslaan",
+      "url":"savingvideo.htm"
+   },
+   {
+      "title":"De temperatuur meten",
+      "url":"measuring.htm"
+   },
+   {
+      "title":"Kalibratie",
+      "url":"calibration.htm"
+   },
+   {
+      "title":"Het palet wijzigen",
+      "url":"palette.htm"
+   },
+  {
+    "title":"Beeldaanpassingen",
+    "url":"fusion-alpha-blending.htm",
+    "feature": "BlendingFusion"
+  },
+  {
+    "title":"Beeldaanpassingen",
+    "url":"fusion.htm",
+    "feature": "Msx"
+  },
+  {
+    "title":"Klein verschil-modus",
+    "url":"lowgain.htm"
+  },
+    {
+      "title":"Een time-lapse-video maken",
+      "url":"timelapse.htm"
+  },
+  {
+    "title":"YouTube Live Streaming",
+    "url":"youtubelive.htm"
+  },
+    {
+      "title":"De timer gebruiken",
+      "url":"timer.htm"
+   },
+  {
+    "title":"Metingen gebruiken",
+    "url":"roi-pro.htm",
+    "feature": "CircleMeasurement"
+  },
+   {
+      "title":"Metingen gebruiken",
+      "url":"roi.htm"
+    },
+    {
+      "title":"Met behulp van IR-schaal",
+      "url":"irscale.htm"
+    },
+  {
+    "title":"Isotherm",
+    "url":"isotherm.htm",
+    "feature": "Isotherm"
+  },
+  {
+    "title":"Isotherm-alarm",
+    "url":"alarm.htm",
+    "feature": "Isotherm"
+  },
+    {
+      "title":"Een beeld openen",
+      "url":"openimage.htm"
+   },
+   {
+    "title":"FLIR Tools integratie",
+    "url":"flirtoolsintegration.htm"
+  },
+    {
+      "title":"De lamp inschakelen",
+      "url":"lamp.htm"
+   },
+    {
+      "title":"Instellingen wijzigen",
+      "url":"settings.htm"
+   },
+   {
+    "title":"Uitlijning door gebruiker",
+    "url":"useralignment.htm",
+     "feature": "Msx"
+  },
+    {
+      "title":"Klantenondersteuning",
+      "url":"support.htm"
+   },
+    {
+      "title":"Over Teledyne FLIR",
+      "url":"aboutflir.htm"
+    }
+]

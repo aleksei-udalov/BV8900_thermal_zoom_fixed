@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/dialog_background" android:paddingLeft="@dimen/dialog_padding" android:paddingTop="@dimen/dialog_padding" android:paddingRight="@dimen/dialog_padding" android:paddingBottom="@dimen/dialog_padding" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/dialog_text_size_regular" android:textStyle="bold" android:textColor="@color/dialog_text_grey" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_delete_title" />
+    <TextView android:id="@id/dialog_delete_info_label" style="@style/DialogTextLabelMedium" />
+    <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="45.0dip">
+        <TextView android:id="@id/dialog_cancel" android:layout_marginRight="40.0dip" android:text="@string/dialog_cancel" style="@style/DialogCancelButton" />
+        <TextView android:id="@id/dialog_ok" android:paddingLeft="@dimen/dialog_button_clickable_margin_left_right" android:paddingRight="@dimen/dialog_button_clickable_margin_left_right" android:layout_marginRight="20.0dip" android:text="@string/dialog_ok" style="@style/DialogOkButton" />
+    </LinearLayout>
+</LinearLayout>
