@@ -30,7 +30,7 @@ Enable installation from untrusted sources and install.
    ```
    JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 java -jar /opt/apktool/apktool_2.11.1.jar b MyFLIR -o fixed_MyFLIR.apk
    zipalign -v 4 fixed_MyFLIR.apk fixed_aligned_MyFLIR.apk
-   apksigner sign --ks-key-alias alias_name --ks ~/lepton/double_2/my-release-key.keystore --ks-pass pass:12345678 fixed_aligned_MyFLIR.apk
+   apksigner sign --ks-key-alias alias_name --ks my-release-key.keystore fixed_aligned_MyFLIR.apk
    adb uninstall com.flir.notmyflir
    adb install -r -g -d fixed_aligned_MyFLIR.apk
    ```
