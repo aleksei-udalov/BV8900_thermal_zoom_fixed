@@ -3320,7 +3320,7 @@
     invoke-virtual {p0, p1, p2, p3}, Lcom/flir/flirone/sdk/OverlayRenderer;->drawMeasurements(Landroid/graphics/Canvas;Ljava/util/Collection;Lcom/flir/flirone/sdk/measurements/TempUnit;)V
 
     :cond_3
-    invoke-virtual {p0, p1}, Lcom/flir/flirone/sdk/OverlayRenderer;->drawFlirLogo(Landroid/graphics/Canvas;)V
+    # invoke-virtual {p0, p1}, Lcom/flir/flirone/sdk/OverlayRenderer;->drawFlirLogo(Landroid/graphics/Canvas;)V
 
     :cond_4
     :goto_0
