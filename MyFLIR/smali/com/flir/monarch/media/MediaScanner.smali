@@ -145,7 +145,7 @@
 
     move-result-object p0
 
-    const-string p1, "com.flir.myflir.media.provider"
+    const-string p1, "com.flir.notmyflir.media.provider"
 
     invoke-virtual {p0, p1, v0}, Landroid/content/ContentResolver;->applyBatch(Ljava/lang/String;Ljava/util/ArrayList;)[Landroid/content/ContentProviderResult;
     :try_end_0
@@ -352,7 +352,7 @@
 
     move-result-object p0
 
-    const-string p1, "com.flir.myflir.media.provider"
+    const-string p1, "com.flir.notmyflir.media.provider"
 
     invoke-virtual {p0, p1, v0}, Landroid/content/ContentResolver;->applyBatch(Ljava/lang/String;Ljava/util/ArrayList;)[Landroid/content/ContentProviderResult;
     :try_end_0

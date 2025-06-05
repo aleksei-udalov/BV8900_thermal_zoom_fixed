@@ -19,7 +19,7 @@
 .method static constructor <clinit>()V
     .locals 1
 
-    const-string v0, "content://com.flir.myflir.media.provider"
+    const-string v0, "content://com.flir.notmyflir.media.provider"
 
     invoke-static {v0}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
 

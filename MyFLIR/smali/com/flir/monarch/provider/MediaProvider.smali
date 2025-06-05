@@ -150,7 +150,7 @@
 
     invoke-direct {v0, v1}, Landroid/content/UriMatcher;-><init>(I)V
 
-    const-string v1, "com.flir.myflir.media.provider"
+    const-string v1, "com.flir.notmyflir.media.provider"
 
     const-string v2, "media"
 

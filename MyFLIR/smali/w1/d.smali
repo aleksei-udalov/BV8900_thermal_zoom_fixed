@@ -1172,7 +1172,7 @@
 
     move-result-object v0
 
-    const-string v1, "com.flir.myflir"
+    const-string v1, "com.flir.notmyflir"
 
     invoke-interface {v0, v1}, Ly9/c;->r(Ljava/lang/String;)V
 

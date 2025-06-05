@@ -321,7 +321,7 @@
 
     const/4 v6, 0x4
 
-    const-string v7, "com.flir.myflir-alarm"
+    const-string v7, "com.flir.notmyflir-alarm"
 
     invoke-direct {v4, v7, v5, v6}, Landroid/app/NotificationChannel;-><init>(Ljava/lang/String;Ljava/lang/CharSequence;I)V
 

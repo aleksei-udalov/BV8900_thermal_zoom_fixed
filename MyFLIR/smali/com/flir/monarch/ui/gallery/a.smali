@@ -666,7 +666,7 @@
 
     invoke-direct {v2, v3}, Ljava/io/File;-><init>(Ljava/lang/String;)V
 
-    const-string v3, "com.flir.myflir.fileprovider"
+    const-string v3, "com.flir.notmyflir.fileprovider"
 
     invoke-static {v1, v3, v2}, Landroidx/core/content/FileProvider;->f(Landroid/content/Context;Ljava/lang/String;Ljava/io/File;)Landroid/net/Uri;
 
