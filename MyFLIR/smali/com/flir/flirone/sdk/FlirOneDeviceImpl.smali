@@ -217,7 +217,7 @@
 
     move-wide v5, p4
 
-    move v7, p6
+    const/16 v7, 0x0
 
     invoke-virtual/range {v0 .. v7}, Lcom/flir/flirone/sdk/FlirOneDeviceImpl;->capturePhoto(Ljava/lang/String;Ljava/lang/String;DDI)Z
 
