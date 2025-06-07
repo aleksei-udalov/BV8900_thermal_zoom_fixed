@@ -1435,15 +1435,9 @@
 .method public c()Z
     .locals 1
 
-    iget-object p0, p0, Ld2/b;->a:Landroid/content/SharedPreferences;
+    const/4 v0, 0x1
 
-    const-string v0, "analytics_opt_in"
-
-    invoke-interface {p0, v0}, Landroid/content/SharedPreferences;->contains(Ljava/lang/String;)Z
-
-    move-result p0
-
-    return p0
+    return v0
 .end method
 
 .method public c0(Lcom/flir/flirone/sdk/measurements/TempUnit;)V
