@@ -43,7 +43,7 @@
 
     if-eqz v0, :cond_0
 
-    const/high16 v0, 0x3f400000    # 0.75f
+    const/high16 v0, 0x0    # 0.0f
 
     goto :goto_0
 
