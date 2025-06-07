@@ -1686,7 +1686,7 @@
 
     const-string v0, "save_location"
 
-    const/4 v1, 0x1
+    const/4 v1, 0x0
 
     invoke-interface {p0, v0, v1}, Landroid/content/SharedPreferences;->getBoolean(Ljava/lang/String;Z)Z
 
